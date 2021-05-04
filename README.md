@@ -15,25 +15,25 @@ Vue:     http://localhost:8080/
 
 #### Summary: To create a single web-component source (made by Tony Token) that can be generated and included within any modern library or framework (by Webster). 
 
-- Stage 1 (deliverable)
+### Stage 1 (deliverable)
 
 1. A component can be shown using any of the following libraries:
 
 Svelte, Angular, react, Vue.
 
-- Stage 2 (deliverable)
+### Stage 2 (deliverable)
  
 1. Create a single web-component
 2. Import the web-component into each of the libraries; Svelte, Angular, React and Vue Js. 
 
 Notes: As shown in the reference links below, use a wrapper for each Webcomponent. Which will allow for the components to seemlessly integrate into the libraries application life cycle.
 
-- Stage 3 (deliverable)
+### Stage 3 (deliverable)
 
 1. Review the implementation required to wrap the web-components into each library
 2. Create a proof of concept of how Tony Token could use a tool to generate the wrappers for Webster. 
 
-- Stage 4 (deliverable)
+### Stage 4 (deliverable)
 
 1. Add some level of smarts to the web-component e.g. params, events, real-life example. 
 2. Connect the components to the libraries event / digest life cycle (Svelte, Angular, React and Vue Js). 
@@ -41,11 +41,9 @@ Notes: As shown in the reference links below, use a wrapper for each Webcomponen
 
 ## Notes (general/dev)
 
-npx - downloads then exectutes an npm pacakge in a single command in the current location
-npm - will install a package for later use (locally or globally)
-
+- npx, downloads then exectutes an npm pacakge in a single command in the current location
+- npm, will install a package for later use (locally or globally)
 - Vue JS will not allow the same namespace - but other libraries will. In the final version, a naming convention should be given / applied to reduce these types of issues.
-
 - Angular requires a top level configuration to allow for web components: "CUSTOM_ELEMENTS_SCHEMA"
 
 ## References / Reading
