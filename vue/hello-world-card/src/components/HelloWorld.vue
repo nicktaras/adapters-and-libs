@@ -1,12 +1,13 @@
 <template>
-  <div>
-    Hello World Card
-  </div>
+  <hello-world-card></hello-world-card>
 </template>
 
 <script>
+
+import './../web-components/hello-world-card';
+
 export default {
-  name: 'HelloWorldCard',
+  name: 'HelloWorld',
   props: {
     msg: String
   }

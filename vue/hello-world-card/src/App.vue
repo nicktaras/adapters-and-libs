@@ -1,14 +1,14 @@
 <template>
-  <HelloWorldCard></HelloWorldCard>
+  <HelloWorld></HelloWorld>
 </template>
 
 <script>
-import HelloWorldCard from './components/HelloWorldCard.vue'
+import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorldCard
+    HelloWorld
   }
 }
 </script>

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import './../../web-components/hello-world-card';
 
 @Component({
   selector: 'hello-world-card',

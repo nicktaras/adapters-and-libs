@@ -1,6 +1,8 @@
+import './../src/web-components/hello-world-card';
+
 const HelloWorldCard = () => {
   return (
-    <div>Hello World Card</div>
+    <hello-world-card></hello-world-card>
   )
 }
 
