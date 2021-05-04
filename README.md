@@ -50,3 +50,7 @@ npm - will install a package for later use (locally or globally)
 - https://vaadin.com/learn/tutorials/using-web-components-in-angular - (using web-components inside Angular)
 - https://www.digitalocean.com/community/tutorials/vuejs-vue-integrate-web-components (using web-components inside Vue)
 - https://dev.to/silvio/how-to-create-a-web-components-in-svelte-2g4j (using web-components inside Svelte)
+- NPM
+- https://www.youtube.com/watch?v=N_-Cu9_2YAA (Github Packages)
+
+  
