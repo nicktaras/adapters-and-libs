@@ -13,7 +13,7 @@ Vue:     http://localhost:8080/
 
 ### Project Plan:
 
-#### Summary: To create a single web-component source (made by Tony Token) that can be generated and included within any modern library or framework (by Webster). 
+#### Summary: To create a single web-component source developerX that can be generated and included within any modern library or framework (by developerY). 
 
 ### Stage 1 (deliverable)
 
@@ -31,7 +31,7 @@ Notes: As shown in the reference links below, use a wrapper for each Webcomponen
 ### Stage 3 (deliverable)
 
 1. Review the implementation required to wrap the web-components into each library
-2. Create a proof of concept of how Tony Token could use a tool to generate the wrappers for Webster. 
+2. Create a proof of concept of how DeveloperX could use a tool to generate the wrappers for DeveloperY. 
 
 ### Stage 4 (deliverable)
 
