@@ -5,12 +5,16 @@ A project to understand the commonalities between libraries in regard to web com
 
 1. Use Node version 16
 1. CD into any of the libraries and run `npm run start`
-2. Each Library should contain a component named `HelloWorldCard` as per stage 1.
+2. Each Library should contain a component named `HelloWorldCard`.
 
 Angular: http://localhost:4200/
 React:   http://localhost:3000/
 Svelte:  http://localhost:5000/
 Vue:     http://localhost:8080/
+
+## Next Steps
+
+Create interactive content to ensure compatibility across FE frameworks.
 
 ## References / Reading
 
