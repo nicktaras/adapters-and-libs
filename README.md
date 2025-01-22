@@ -3,7 +3,8 @@ A project to understand the commonalities between libraries in regard to web com
 
 ## Development
 
-1. CD into any of the libraries and run `yarn start`
+1. Use Node version 16
+1. CD into any of the libraries and run `npm run start`
 2. Each Library should contain a component named `HelloWorldCard` as per stage 1.
 
 Angular: http://localhost:4200/
